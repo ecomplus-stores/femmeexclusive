@@ -1,6 +1,16 @@
 {
   "title": "Contato",
-  "meta_title": "Contato",
-  "meta_description": "Contato",
-  "body": "#### F﻿ale conosco pelo whatsapp ou telefone!"
+  "meta_title": "",
+  "meta_description": "contato",
+  "body": "#### F﻿ale conosco pelo whatsapp ou telefone!",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
 }
