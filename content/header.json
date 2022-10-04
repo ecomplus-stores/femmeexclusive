@@ -16,5 +16,5 @@
   "desktop_megamenu": false,
   "search_input": true,
   "full_width_submenu": false,
-  "alphabetical_order_submenu": true
+  "alphabetical_order_submenu": false
 }
