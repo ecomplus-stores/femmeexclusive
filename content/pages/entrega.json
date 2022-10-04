@@ -2,5 +2,15 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "Trabalhamos com pronta-entrega, logo seu pedido será postado de IMEDIATO, assim que o seu pagamento for confirmado e aprovado.\n\nApós a postagem, você receberá via e-mail o código de rastreio da sua compra e todas as atualizações de envio. *Pedimos que acompanhe o envio do seu pedido para que não ocorra da encomenda ser devolvida.* Nós da Très Femme não nos responsabilizamos por encomendas que forem devolvidas pelo Melhor Envio, sendo o custo do Frete para reenvio por conta do cliente.\n\n#### **VALOR DE FRETE**\n\nO frete é terceirizado, e o seu valor está relacionado às dimensões, peso e local de entrega, pela responsabilidade da empresa Melhor Envio. Logo, será gerado automaticamente o cálculo do frete no momento do fechamento da compra. \n\nEm todo caso, tendo qualquer problema, entre em contato conosco via Whatsapp ou Email.\n\n#### **PRAZO DE ENVIO**\n\nSeu pedido é enviado diretamente do nosso showroom para o centro de distribuição, e tem estimativa de entrega no ENVIO PADRÃO de 7 a 10 dias úteis depois de postado, esse prazo pode se estender em mais 10 dias úteis pois depende da agilidade da Melhor Envio em cada região.\n\n*Caso haja atraso alfandegário, este prazo até a liberação não conta como prazo de entrega.*\n\nTomamos todo o cuidado no processamento e envio dos pedidos, visando além de preço e qualidade, também o processo de envio para receberem em seu endereço o quanto antes.\n\nCertifique-se de que o endereço de envio da compra está correto e de que haverá alguém no endereço da entrega dos produtos, pois após a segunda tentativa da Melhor Envio, a mesma é devolvida para nós.\n\n*O reenvio de produtos será cobrado*.\n\n#### **TAXAS EXTRAS**\n\nQualquer taxa fora do valor estabelecido será de responsabilidade de nossa loja. Se alguma situação de taxas extras aparecer em seu código de rastreio, por favor entre em contato conosco através do WhatsApp ou do Email.\n\nPara dúvidas e esclarecimentos, entre em contato conosco.\n\nEstamos sempre a disposição para ajudar.\n\n###### Seja bela, seja femme.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
 }
