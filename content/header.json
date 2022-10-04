@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Adquira FRETE GRÁTIS nas compras a partir de R$ 600,00",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
@@ -10,8 +10,16 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Bolsas",
+        "link": "femmeexclusive.com.br/bolsas"
+      },
+      {
+        "link": "femmeexclusive.com.br/acessórios",
+        "title": "Acessórios"
+      },
+      {
+        "link": "femmeexclusive.com.br/perfumes",
+        "title": "Perfumes"
       }
     ],
     "phone_wpp": true,
@@ -23,5 +31,7 @@
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "full_width_submenu": false,
+  "alphabetical_order_submenu": true
 }
