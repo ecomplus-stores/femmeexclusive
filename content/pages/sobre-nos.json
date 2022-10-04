@@ -2,5 +2,24 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "##### Elegância, versatilidade & sofisticação. \n\nA qualidade em bolsas e artigos de moda feminina, que você encontra apenas aqui na Femme. \n\n\n\n### Q﻿uem é a femme?\n\nS﻿omos mulheres apaixonadas pelo universo da moda, sabemos que todo o poder de um look pode mudar completamente com o(s) acessório(s) certos. Mais do que uma bolsa, nossos produtos são objetos de desejos que trarão o complemento perfeito que você precisa.  \n\n###### Acompanhe-nos nas redes sociais para dicas de composição, previsão de lançamentos e ofertas imperdíveis. \n\n###### Seja bela, seja femme.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 3,
+      "collection_id": "6207ec707963422eeefdd417:brands:Femme Exclusive:/femme-exclusive",
+      "sort": "views",
+      "title": "Conheça"
+    }
+  ]
 }
