@@ -1,7 +1,7 @@
 {
   "domain": "femmeexclusive.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "lux",
     "custom": "clean-gray"
