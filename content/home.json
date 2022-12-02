@@ -1,5 +1,5 @@
 {
-  "meta_title": "",
+  "meta_title": "Lançamentos",
   "meta_description": "",
   "sections": [
     {
@@ -30,23 +30,9 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-10-04T18:02:27.876Z",
-      "end": "2022-10-31T18:02:28.022Z",
-      "offers": [
-        "62966e6eac0cb4200ff7f137",
-        "627681393da6d37bc2258ffe",
-        "627585233da6d37bc22427aa",
-        "627682fa3da6d37bc22593d0",
-        "62966ebbac0cb4200ff7f261"
-      ],
-      "notes": "ÚLTIMAS OPORTUNIDADES"
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "views"
+      "sort": "news"
     }
   ]
 }
