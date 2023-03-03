@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.7ecd666d5bd0db871297fd41fe6d4e2e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.be068272bd16574da6db3957c221b379.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.862fdd869c87ab87be76c92899726eee.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.b0393806cb9ce2fe158e064c232a70e2.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.665d4e105b3beb7ed7647beffde947ab.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Très Femme",
+  "short_name": "Femme",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Elegância, versatilidade & sofisticação. A qualidade em bolsas e artigos de moda feminina, que você encontra apenas aqui na Femme. Seja bela, seja femme.",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
